@@ -83,7 +83,9 @@ best_sets: best_shortside-rotated-sorting-SplitSameAsPreviousAxis-DESCSS-0
 B1:
 
 less_bins: 3777
+
 best_efficiency: 0.7883577515382038
+
 best_sets: best_long_side-rotated-sorting-SplitSameAsPreviousAxis-DESCSS-0
 
  
@@ -91,7 +93,9 @@ best_sets: best_long_side-rotated-sorting-SplitSameAsPreviousAxis-DESCSS-0
 B2:
 
 less_bins: 2506
+
 best_efficiency: 0.7687222884909595
+
 best_sets: best_long_side-rotated-sorting-SplitSameAsPreviousAxis-DESCSS-0
 
  
@@ -99,7 +103,9 @@ best_sets: best_long_side-rotated-sorting-SplitSameAsPreviousAxis-DESCSS-0
 B3:
 
 less_bins: 2502
+
 best_efficiency: 0.772718752436911
+
 best_sets: best_long_side-rotated-sorting-SplitSameAsPreviousAxis-DESCSS-0
 
  
@@ -107,7 +113,9 @@ best_sets: best_long_side-rotated-sorting-SplitSameAsPreviousAxis-DESCSS-0
 B4:
 
 less_bins: 2549
+
 best_efficiency: 0.7962636535144704
+
 best_sets: best_area-rotated-sorting-SplitSameAsPreviousAxis-DESCSS-0
 
  
@@ -115,7 +123,9 @@ best_sets: best_area-rotated-sorting-SplitSameAsPreviousAxis-DESCSS-0
 B5:
 
 less_bins: 4030
+
 best_efficiency: 0.7665058966345528
+
 best_sets: best_long_side-rotated-sorting-SplitSameAsPreviousAxis-DESCSS-0
 
 
