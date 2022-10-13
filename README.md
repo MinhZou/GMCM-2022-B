@@ -138,10 +138,6 @@ Examples of visualization results.
 
 ![floor_plan_YW10-0218S_0_69](pic/floor_plan_YW10-0218S_0_69.png)
 
-![floor_plan_YW10-0218S_0_26](pic/floor_plan_YW10-0218S_0_26.png)
-
-![image-20221012231756418](pic/image-20221012231756418.png)
-
 @Programming：Minhao Zou
 
 @Modeling and Writing：Yutong Wang、Xiaotong Zhong
